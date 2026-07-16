@@ -1,4 +1,5 @@
-## Hi there 👋
+## aspiring ml developer  
+## dm me on tg: @cvvalue
 
 <!--
 **cvvalue/cvvalue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
